@@ -8,11 +8,10 @@ Quais são os principais conceitos que um iniciante precisa aprender antes de in
 
 Fontes Principais
 B3 Educação (Hub oficial de educação da bolsa): https://edu.b3.com.br/
-.
+
 Suno Research (Análise de investimentos e educação financeira): https://www.suno.com.br/
-.
+
 Suno Studio (Plataforma de criação de áudio generativo): https://suno.com/studio-welcome
-.
-Suno | AI Music Generator (Geração de música por IA): https://suno.com/home
-.
+
+
 https://notebooklm.google.com/notebook/73210cf1-80fc-4775-ae0e-27aa2cce66f1?artifactId=f488cacd-0eb0-44bb-b736-205f5d2eab19
